@@ -7,8 +7,6 @@
   <a href="https://voidtools.cc"><img src="https://img.shields.io/badge/VoidTools.cc-dfedc9?style=for-the-badge&amp;logoColor=151219" alt="VoidTools.cc" /></a>
 </p>
 
-<a href="https://voidtools.software"><img src="./assets/voidtools.svg" width="100%" alt="Building VoidTools. Founder of voidtools.software and voidtools.cc. Explore VoidTools." /></a>
+<p><a href="https://voidtools.software"><img src="./assets/voidtools.svg" width="100%" alt="Building VoidTools. Founder of voidtools.software and voidtools.cc. Explore VoidTools." /></a></p>
 
-<br /><br />
-
-<a href="https://voidtools.cc"><img src="./assets/links.svg" width="100%" alt="Find my work at VoidTools.cc" /></a>
+<p><a href="https://voidtools.cc"><img src="./assets/links.svg" width="100%" alt="Find my work at VoidTools.cc" /></a></p>
