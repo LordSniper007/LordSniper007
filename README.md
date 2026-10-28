@@ -1,26 +1,14 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Pieczrka — building useful software" width="100%">
+  <img src="./assets/intro.png" width="100%" alt="Hey, I'm kixo. Welcome to my corner of GitHub. @kixo_oio, Poland." />
 </p>
 
 <p align="center">
-  <a href="https://voidtools.software/">Explore VoidTools</a> ·
-  <a href="https://github.com/LordSniper007?tab=repositories">Browse my repositories</a>
+  <a href="https://voidtools.software"><img src="https://img.shields.io/badge/VoidTools.software-d2b5f3?style=for-the-badge&amp;logoColor=151219" alt="VoidTools.software" /></a>
+  <a href="https://voidtools.cc"><img src="https://img.shields.io/badge/VoidTools.cc-dfedc9?style=for-the-badge&amp;logoColor=151219" alt="VoidTools.cc" /></a>
 </p>
 
-## Hey, I'm Pieczrka 👋
+<a href="https://voidtools.software"><img src="./assets/voidtools.svg" width="100%" alt="Building VoidTools. Founder of voidtools.software and voidtools.cc. Explore VoidTools." /></a>
 
-I build practical software with a focus on Windows tools, useful workflows, and interfaces that stay out of the way. I'm currently working on **[VoidTools](https://voidtools.software/)**, a desktop workspace for system maintenance, diagnostics, and technical tasks.
+<br /><br />
 
-### Things I've built
-
-| Project | What it is |
-| --- | --- |
-| [VoidTools](https://voidtools.software/) | A focused Windows workspace for maintenance, diagnostics, and technical tools. |
-| [VoidTools website](https://github.com/LordSniper007/LordSniper007.github.io) | The public site for the project. |
-| [Game Library catalog](https://github.com/LordSniper007/VoidTools-GameLibrary) | A public data catalog for the VoidTools Game Library. |
-
-### What I work with
-
-`C++` · `TypeScript` · `React` · `Python` · `Windows`
-
-<p align="center"><sub>Based in Poland · Building tools that make everyday work a little easier.</sub></p>
+<a href="https://voidtools.cc"><img src="./assets/links.svg" width="100%" alt="Find my work at VoidTools.cc" /></a>
