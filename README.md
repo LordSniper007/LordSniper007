@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/profile-mobile.svg" />
-  <img src="./assets/profile-wide.svg" width="100%" alt="Hey, I'm kixo. @kixo_oio, Poland. Founder of VoidTools." />
+  <source media="(max-width: 600px)" srcset="./assets/portrait-mobile.svg" />
+  <img src="./assets/portrait-wide.svg" width="100%" alt="Hey, I'm kixo. @kixo_oio, Poland. Founder of VoidTools." />
 </picture>
 
 <p>
