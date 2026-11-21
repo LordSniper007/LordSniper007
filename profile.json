@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "login": "lordsniper007",
+  "seed": "#E100FF",
+  "seedFromAvatar": false,
+  "scheme": "fidelity",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "about",
+    "wave",
+    "socials",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "buttons"
+  ],
+  "hidden": [
+    "buttons",
+    "streak",
+    "stats",
+    "projects",
+    "stack"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Kixo_oio",
+    "subtitle": "Im just some nn dev so dont expect it to be good.",
+    "typing": true,
+    "avatarShape": "cookie",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Poland"
+      },
+      {
+        "icon": "brand:cplusplus",
+        "label": "C++ Dev"
+      }
+    ]
+  },
+  "about": {
+    "title": "A little about me.",
+    "items": [
+      {
+        "icon": "person",
+        "label": "I mostly main React and C++ "
+      },
+      {
+        "icon": "music_note",
+        "label": "Best music only from Otsochodzi."
+      },
+      {
+        "icon": "verified",
+        "label": "Founder of voidtools.software"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": []
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "LordSniper007",
+      "LordSniper007.github.io",
+      "VoidTools-GameLibrary"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/1363919830725689457"
+      },
+      {
+        "icon": "verified",
+        "url": "https://voidtools.software"
+      },
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/LordSniper007"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}

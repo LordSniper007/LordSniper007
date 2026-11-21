@@ -1,8 +1,13 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/portrait-mobile.svg?v=2" />
-  <img src="./assets/portrait-wide.svg?v=2" width="100%" alt="Hey, I'm kixo. @kixo_oio, Poland. Founder of VoidTools." />
-</picture>
+<div align="center">
 
-<p>
-  <a href="https://voidtools.software"><img src="./assets/nav-site.svg?v=2" width="50%" height="44" alt="voidtools.software" /></a><a href="https://discord.gg/wDz9Dw63A5"><img src="./assets/nav-community.svg?v=2" width="50%" height="44" alt="VoidTools Community on Discord" /></a>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kixo_oio"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="A little about me."></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="20.438%" alt=""></picture><a href="https://discord.com/1363919830725689457"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://voidtools.software"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="26.557%" alt="verified"></picture></a><a href="https://github.com/LordSniper007"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="16.014%" alt="github"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="20.438%" alt=""></picture>
+
+<a href="https://metawka.github.io/expressive-profile/?from=lordsniper007"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Hope to make the World a little better"></picture></a>
+
+</div>
