@@ -1,5 +1,5 @@
 {
- "key": "df9bb751",
+ "key": "c2612c12",
  "stars": 2,
  "contributions": 274,
  "repos": 3,
@@ -106,9 +106,13 @@
    {
     "c": 0,
     "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
     "today": true
    },
-   null,
    null,
    null,
    null,
